@@ -1,0 +1,70 @@
+06.08.2013 14:27:38 app.TVRadioServerMain main
+INFO: Server started.
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 6, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 357, artist: Катуар, Георгий Львович / Сидене Мишель, Хогевен Годфрид, song: Квинтет для фортепиано и струнных, Ор.31
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 353, artist: Барбер, Сэмюэл / Филадельфийский симфонический оркестр, дирижёр Юджин Орманди, song: Adagio для струнных, Ор.11
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 355, artist: Штраус, Рихард / "Королевский оркестр "Концертгебау", Марисс Янсонс", song: Жизнь героя, симфоническая поэма, ор.40
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 316, artist: Пукиьлчд, song: Удлиьпчк
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 8, artist: ВИНТАЖ, song: Знак Водолея
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 232, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 349, artist: ФлайzZzа, song: Гей Же Гу!
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 88, artist: Eiffel 65, song: Blue (Da Ba Dee)
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 111, artist: U2, song: Elevation
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 192, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 199, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 9, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 354, artist: Глазунов, Александр Константинович / Анатолий Шелудяков - фортепиано, song: Тема с вариациями, фа-диез минор, соч. 72
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 3, artist: ЛЕПС, ГРИГОРИЙ/АЛЛЕГРОВА, ИРИНА, song: Я ТЕБЕ НЕ ВЕРЮ
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 227, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 177, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 173, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 289, artist: DAVID GUETTA & NICKI MINAJ, song: TURN ME ON
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 175, artist: ENYA, song: BOOK OF DAYS
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 356, artist: Доницетти, Гаэтано / Оркестр Мюнхенского радио, дирижёр Марчелло Виотти, song: Опера "Любовный напиток"
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 358, artist: Гайдн, Йозеф / Михаил Плетнёв, song: Соната для клавира № 33, до минор, Hob.XVI:20
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 172, artist: null, song: null
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 207, artist: БИ-2, song: Варвара
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 196, artist: A-Ha, song: Minor Earth Major Sky
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 346, artist: Альфа Радио, song: В ритме новостей!
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 265, artist: GRAVITONAS, song: Lucky Star
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 267, artist: Fabo, song: Where I Stand feat. Lostcause
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 201, artist: Tasadi, song: World of Illusions 045 
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 345, artist: Enrique Iglesias feat. Nicole Scherzinger, song: Heartbeat
+06.08.2013 14:27:38 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 297, artist: Christine Pepelyan, song: Chem Toghni
+06.08.2013 14:27:53 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 232, artist: null, song: null
+06.08.2013 14:27:53 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 9, artist: null, song: null
+06.08.2013 14:27:53 metadata.MetadataController didReceiveMetadataForStation
+INFO: >>> didReceiveMetadataForStation: 227, artist: null, song: null

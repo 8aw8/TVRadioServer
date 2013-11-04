@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="jar" name="Create Runnable Jar">
+
+	<property name="java.home" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home"/>
+
+	<property name="main_class" value="app.TVRadioServerMain"/>
+	<property name="build_dir" value="build"/>
+	<property name="output_dir" value="deploy"/>
+	<property name="output_jar_name" value="server.jar"/>
+	
+
+	<target name="clean" description="Clean up">
+		<delete dir="${build_dir}"/>
+		<delete file="${output_dir}/${output_jar_name}"/>
+	</target>
+
+	<target name="make_dirs" description="Make dirs" depends="clean">
+		<mkdir dir="${output_dir}" />
+		<mkdir dir="${build_dir}" />
+	</target>
+
+	<target name="compile" description="compile java" depends="make_dirs">
+		<copy todir="${build_dir}" >  
+	        <fileset dir="../naga/bin" includes="**/*.class"/>  
+		</copy>
+		
+		<copy todir="${build_dir}" >  
+	        <fileset dir="../TVRadioServer/bin" includes="**/*.class"/>  
+		</copy>
+
+		<unzip src="/Developer-Java/mysql-connector-java/mysql-connector-java-5.1.22-bin.jar" dest="${build_dir}"/>
+	</target>
+
+	<target name="jar" depends="compile">
+		<jar destfile="${output_dir}/${output_jar_name}">
+			<manifest>
+				<attribute name="Main-Class" value="${main_class}" />
+			</manifest>
+
+			<fileset dir="${build_dir}"/>
+		</jar>
+	</target>
+
+	<target name="run" depends="jar">
+	 	<java jar="${output_dir}/${output_jar_name}" fork="true" />
+ 	</target>
+	
+	<target name="proguard" depends="jar">
+		<taskdef resource="proguard/ant/task.properties" classpath="/Developer-Java/proguard/lib/proguard.jar" />
+		<proguard configuration="proguard_config"/>
+	</target>
+
+</project>
